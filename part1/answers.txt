@@ -1,0 +1,21 @@
+PART 1
+------------------------------------------------------------------------------------------------
+Here are the average total runtimes for all kernels with 95% confidence interval:
+Kernel 1:    14.942 +/- 0.026 ms
+Kernel 2:    6.122  +/- 0.004 ms
+Kernel 3:    5.634  +/- 0.005 ms
+Kernel 4:    4.936  +/- 0.005 ms
+
+Problem 1)
+The total GPU kernel runtime was 0.014930 seconds
+
+Problem 2)
+The total GPU kernel runtime was 0.006122 seconds, an improvement of 2.44 times over the original
+
+Problem 3)
+The total GPU kernel runtime was 0.005634 seconds, an improvement of 1.09 times over kernel 2.
+
+Problem 4)
+The total GPU kernel runtime was 0.004930 seconds, an improvement of 1.14 times over kernel 3.
+
+--------------------------------------------------------------------------------------------------
